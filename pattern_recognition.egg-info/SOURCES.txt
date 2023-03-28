@@ -1,0 +1,8 @@
+setup.py
+pakages/__init__.py
+pakages/bayesian_classifier.py
+pattern_recognition.egg-info/PKG-INFO
+pattern_recognition.egg-info/SOURCES.txt
+pattern_recognition.egg-info/dependency_links.txt
+pattern_recognition.egg-info/requires.txt
+pattern_recognition.egg-info/top_level.txt
